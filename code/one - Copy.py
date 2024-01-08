@@ -1,0 +1,5 @@
+print("GM")
+print("GM")
+print("GM")
+print("GM")
+print("GM")
